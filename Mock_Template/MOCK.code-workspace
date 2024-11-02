@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "MOCK",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../Template_Intern/Financial_Planning/accounts_and_finance-main/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MOCK"
+	}
+}
